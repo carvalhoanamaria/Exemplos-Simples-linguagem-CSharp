@@ -1,0 +1,10 @@
+C:\Users\Ana Maria\Source\Repos\CaixaEletronicoo\CaixaEletronicoo\bin\Debug\CaixaEletronicoo.exe.config
+C:\Users\Ana Maria\Source\Repos\CaixaEletronicoo\CaixaEletronicoo\bin\Debug\CaixaEletronicoo.exe
+C:\Users\Ana Maria\Source\Repos\CaixaEletronicoo\CaixaEletronicoo\bin\Debug\CaixaEletronicoo.pdb
+C:\Users\Ana Maria\Source\Repos\CaixaEletronicoo\CaixaEletronicoo\obj\Debug\CaixaEletronicoo.csprojAssemblyReference.cache
+C:\Users\Ana Maria\Source\Repos\CaixaEletronicoo\CaixaEletronicoo\obj\Debug\CaixaEletronicoo.Form1.resources
+C:\Users\Ana Maria\Source\Repos\CaixaEletronicoo\CaixaEletronicoo\obj\Debug\CaixaEletronicoo.Properties.Resources.resources
+C:\Users\Ana Maria\Source\Repos\CaixaEletronicoo\CaixaEletronicoo\obj\Debug\CaixaEletronicoo.csproj.GenerateResource.cache
+C:\Users\Ana Maria\Source\Repos\CaixaEletronicoo\CaixaEletronicoo\obj\Debug\CaixaEletronicoo.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\CaixaEletronicoo\CaixaEletronicoo\obj\Debug\CaixaEletronicoo.exe
+C:\Users\Ana Maria\Source\Repos\CaixaEletronicoo\CaixaEletronicoo\obj\Debug\CaixaEletronicoo.pdb

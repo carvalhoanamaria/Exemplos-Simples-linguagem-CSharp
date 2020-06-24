@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "njehgk5n931qtScjtV9x2cDotYSEEYJ8rL4igCnUSGJ8p7vG9mC+I950seVtWR2fqQwprPNaLQ6YZsB+zmWDzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ana Maria\\Source\\Repos\\estruturaWhile2\\estruturaWhile2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ana Maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

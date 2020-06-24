@@ -1,0 +1,13 @@
+C:\Users\Ana Maria\Source\Repos\senhaDeFixa\bin\Debug\netcoreapp3.1\senhaDeFixa.exe
+C:\Users\Ana Maria\Source\Repos\senhaDeFixa\bin\Debug\netcoreapp3.1\senhaDeFixa.deps.json
+C:\Users\Ana Maria\Source\Repos\senhaDeFixa\bin\Debug\netcoreapp3.1\senhaDeFixa.runtimeconfig.json
+C:\Users\Ana Maria\Source\Repos\senhaDeFixa\bin\Debug\netcoreapp3.1\senhaDeFixa.runtimeconfig.dev.json
+C:\Users\Ana Maria\Source\Repos\senhaDeFixa\bin\Debug\netcoreapp3.1\senhaDeFixa.dll
+C:\Users\Ana Maria\Source\Repos\senhaDeFixa\bin\Debug\netcoreapp3.1\senhaDeFixa.pdb
+C:\Users\Ana Maria\Source\Repos\senhaDeFixa\obj\Debug\netcoreapp3.1\senhaDeFixa.csprojAssemblyReference.cache
+C:\Users\Ana Maria\Source\Repos\senhaDeFixa\obj\Debug\netcoreapp3.1\senhaDeFixa.AssemblyInfoInputs.cache
+C:\Users\Ana Maria\Source\Repos\senhaDeFixa\obj\Debug\netcoreapp3.1\senhaDeFixa.AssemblyInfo.cs
+C:\Users\Ana Maria\Source\Repos\senhaDeFixa\obj\Debug\netcoreapp3.1\senhaDeFixa.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\senhaDeFixa\obj\Debug\netcoreapp3.1\senhaDeFixa.dll
+C:\Users\Ana Maria\Source\Repos\senhaDeFixa\obj\Debug\netcoreapp3.1\senhaDeFixa.pdb
+C:\Users\Ana Maria\Source\Repos\senhaDeFixa\obj\Debug\netcoreapp3.1\senhaDeFixa.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SomaSimples\SomaSimples\bin\Debug\netcoreapp3.1\SomaSimples.exe
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SomaSimples\SomaSimples\bin\Debug\netcoreapp3.1\SomaSimples.deps.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SomaSimples\SomaSimples\bin\Debug\netcoreapp3.1\SomaSimples.runtimeconfig.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SomaSimples\SomaSimples\bin\Debug\netcoreapp3.1\SomaSimples.runtimeconfig.dev.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SomaSimples\SomaSimples\bin\Debug\netcoreapp3.1\SomaSimples.dll
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SomaSimples\SomaSimples\bin\Debug\netcoreapp3.1\SomaSimples.pdb
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SomaSimples\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.csprojAssemblyReference.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SomaSimples\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.AssemblyInfoInputs.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SomaSimples\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.AssemblyInfo.cs
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SomaSimples\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SomaSimples\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.dll
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SomaSimples\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.pdb
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SomaSimples\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.genruntimeconfig.cache

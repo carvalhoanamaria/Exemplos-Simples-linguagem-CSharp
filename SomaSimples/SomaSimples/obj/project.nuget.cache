@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VjtirQyl3tT43r/qS/Oa6uk/3kYp87idh+2adRmeEy4knEJUh6cJ2jRsLmZYINxHfUwvxozpGtUDvnVcepekwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ana Maria\\Source\\Repos\\CursoProfHelio\\SomaSimples\\SomaSimples\\SomaSimples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ana Maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

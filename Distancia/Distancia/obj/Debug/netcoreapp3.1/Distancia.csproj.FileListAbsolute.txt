@@ -1,0 +1,13 @@
+C:\Users\Ana Maria\Source\Repos\Distancia\Distancia\bin\Debug\netcoreapp3.1\Distancia.exe
+C:\Users\Ana Maria\Source\Repos\Distancia\Distancia\bin\Debug\netcoreapp3.1\Distancia.deps.json
+C:\Users\Ana Maria\Source\Repos\Distancia\Distancia\bin\Debug\netcoreapp3.1\Distancia.runtimeconfig.json
+C:\Users\Ana Maria\Source\Repos\Distancia\Distancia\bin\Debug\netcoreapp3.1\Distancia.runtimeconfig.dev.json
+C:\Users\Ana Maria\Source\Repos\Distancia\Distancia\bin\Debug\netcoreapp3.1\Distancia.dll
+C:\Users\Ana Maria\Source\Repos\Distancia\Distancia\bin\Debug\netcoreapp3.1\Distancia.pdb
+C:\Users\Ana Maria\Source\Repos\Distancia\Distancia\obj\Debug\netcoreapp3.1\Distancia.csprojAssemblyReference.cache
+C:\Users\Ana Maria\Source\Repos\Distancia\Distancia\obj\Debug\netcoreapp3.1\Distancia.AssemblyInfoInputs.cache
+C:\Users\Ana Maria\Source\Repos\Distancia\Distancia\obj\Debug\netcoreapp3.1\Distancia.AssemblyInfo.cs
+C:\Users\Ana Maria\Source\Repos\Distancia\Distancia\obj\Debug\netcoreapp3.1\Distancia.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\Distancia\Distancia\obj\Debug\netcoreapp3.1\Distancia.dll
+C:\Users\Ana Maria\Source\Repos\Distancia\Distancia\obj\Debug\netcoreapp3.1\Distancia.pdb
+C:\Users\Ana Maria\Source\Repos\Distancia\Distancia\obj\Debug\netcoreapp3.1\Distancia.genruntimeconfig.cache

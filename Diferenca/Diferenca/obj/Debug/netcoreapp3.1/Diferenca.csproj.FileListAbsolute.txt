@@ -1,0 +1,13 @@
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Diferenca\Diferenca\bin\Debug\netcoreapp3.1\Diferenca.exe
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Diferenca\Diferenca\bin\Debug\netcoreapp3.1\Diferenca.deps.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Diferenca\Diferenca\bin\Debug\netcoreapp3.1\Diferenca.runtimeconfig.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Diferenca\Diferenca\bin\Debug\netcoreapp3.1\Diferenca.runtimeconfig.dev.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Diferenca\Diferenca\bin\Debug\netcoreapp3.1\Diferenca.dll
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Diferenca\Diferenca\bin\Debug\netcoreapp3.1\Diferenca.pdb
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Diferenca\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.csprojAssemblyReference.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Diferenca\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.AssemblyInfoInputs.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Diferenca\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.AssemblyInfo.cs
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Diferenca\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Diferenca\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.dll
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Diferenca\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.pdb
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Diferenca\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ak3I4aG0phtvhoX6lq9Ta62G0oEwD3iTuNnB39ntZu3nny2uFApB98aRHDU1KzdW1X8yCWz4p67WyJmhN71c2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ana Maria\\Source\\Repos\\VáriasNotasComValidacao\\VáriasNotasComValidacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ana Maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

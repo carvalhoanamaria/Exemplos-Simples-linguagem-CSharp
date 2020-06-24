@@ -1,0 +1,13 @@
+C:\Users\Ana Maria\Source\Repos\estruturaSwitchCase\bin\Debug\netcoreapp3.1\estruturaSwitchCase.exe
+C:\Users\Ana Maria\Source\Repos\estruturaSwitchCase\bin\Debug\netcoreapp3.1\estruturaSwitchCase.deps.json
+C:\Users\Ana Maria\Source\Repos\estruturaSwitchCase\bin\Debug\netcoreapp3.1\estruturaSwitchCase.runtimeconfig.json
+C:\Users\Ana Maria\Source\Repos\estruturaSwitchCase\bin\Debug\netcoreapp3.1\estruturaSwitchCase.runtimeconfig.dev.json
+C:\Users\Ana Maria\Source\Repos\estruturaSwitchCase\bin\Debug\netcoreapp3.1\estruturaSwitchCase.dll
+C:\Users\Ana Maria\Source\Repos\estruturaSwitchCase\bin\Debug\netcoreapp3.1\estruturaSwitchCase.pdb
+C:\Users\Ana Maria\Source\Repos\estruturaSwitchCase\obj\Debug\netcoreapp3.1\estruturaSwitchCase.csprojAssemblyReference.cache
+C:\Users\Ana Maria\Source\Repos\estruturaSwitchCase\obj\Debug\netcoreapp3.1\estruturaSwitchCase.AssemblyInfoInputs.cache
+C:\Users\Ana Maria\Source\Repos\estruturaSwitchCase\obj\Debug\netcoreapp3.1\estruturaSwitchCase.AssemblyInfo.cs
+C:\Users\Ana Maria\Source\Repos\estruturaSwitchCase\obj\Debug\netcoreapp3.1\estruturaSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\estruturaSwitchCase\obj\Debug\netcoreapp3.1\estruturaSwitchCase.dll
+C:\Users\Ana Maria\Source\Repos\estruturaSwitchCase\obj\Debug\netcoreapp3.1\estruturaSwitchCase.pdb
+C:\Users\Ana Maria\Source\Repos\estruturaSwitchCase\obj\Debug\netcoreapp3.1\estruturaSwitchCase.genruntimeconfig.cache

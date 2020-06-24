@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ltYYvwzpSlYrL2gC1IdvxrQAV8FedHWcrUBk69IE/XSUABtNBA1g+FW4MiDEX8aXP68bky89WmvyQSqbCrD4jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ana Maria\\Source\\Repos\\senhaDeFixa\\senhaDeFixa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ana Maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

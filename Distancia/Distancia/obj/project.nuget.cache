@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RmnjoXsUc2MG8U/+RKX4/AQNDppVVl5yvuGtHl9gz+mKQKIlj7BkP3SRLSOH6j/m9GpAb6SbQWktXDJ4SnPZUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ana Maria\\Source\\Repos\\Distancia\\Distancia\\Distancia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ana Maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

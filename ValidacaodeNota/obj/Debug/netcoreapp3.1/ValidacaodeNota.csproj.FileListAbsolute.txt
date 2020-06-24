@@ -1,0 +1,13 @@
+C:\Users\Ana Maria\Source\Repos\ValidacaodeNota\bin\Debug\netcoreapp3.1\ValidacaodeNota.exe
+C:\Users\Ana Maria\Source\Repos\ValidacaodeNota\bin\Debug\netcoreapp3.1\ValidacaodeNota.deps.json
+C:\Users\Ana Maria\Source\Repos\ValidacaodeNota\bin\Debug\netcoreapp3.1\ValidacaodeNota.runtimeconfig.json
+C:\Users\Ana Maria\Source\Repos\ValidacaodeNota\bin\Debug\netcoreapp3.1\ValidacaodeNota.runtimeconfig.dev.json
+C:\Users\Ana Maria\Source\Repos\ValidacaodeNota\bin\Debug\netcoreapp3.1\ValidacaodeNota.dll
+C:\Users\Ana Maria\Source\Repos\ValidacaodeNota\bin\Debug\netcoreapp3.1\ValidacaodeNota.pdb
+C:\Users\Ana Maria\Source\Repos\ValidacaodeNota\obj\Debug\netcoreapp3.1\ValidacaodeNota.csprojAssemblyReference.cache
+C:\Users\Ana Maria\Source\Repos\ValidacaodeNota\obj\Debug\netcoreapp3.1\ValidacaodeNota.AssemblyInfoInputs.cache
+C:\Users\Ana Maria\Source\Repos\ValidacaodeNota\obj\Debug\netcoreapp3.1\ValidacaodeNota.AssemblyInfo.cs
+C:\Users\Ana Maria\Source\Repos\ValidacaodeNota\obj\Debug\netcoreapp3.1\ValidacaodeNota.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\ValidacaodeNota\obj\Debug\netcoreapp3.1\ValidacaodeNota.dll
+C:\Users\Ana Maria\Source\Repos\ValidacaodeNota\obj\Debug\netcoreapp3.1\ValidacaodeNota.pdb
+C:\Users\Ana Maria\Source\Repos\ValidacaodeNota\obj\Debug\netcoreapp3.1\ValidacaodeNota.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MoKPI8IniPTdjmh8+07shcrtTSoO0PEJ+v23Jhft58bHlCKoXxXzCHdUtYzgF6FH/lrl1vBOS1LKpomuJJz6Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ana Maria\\Source\\Repos\\GastodeCombustivel\\GastodeCombustivel\\GastodeCombustivel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ana Maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

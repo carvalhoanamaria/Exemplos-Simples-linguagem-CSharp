@@ -1,0 +1,12 @@
+C:\Users\Ana Maria\Source\Repos\estruturaWhile\bin\Debug\netcoreapp3.1\estruturaWhile.exe
+C:\Users\Ana Maria\Source\Repos\estruturaWhile\bin\Debug\netcoreapp3.1\estruturaWhile.deps.json
+C:\Users\Ana Maria\Source\Repos\estruturaWhile\bin\Debug\netcoreapp3.1\estruturaWhile.runtimeconfig.json
+C:\Users\Ana Maria\Source\Repos\estruturaWhile\bin\Debug\netcoreapp3.1\estruturaWhile.runtimeconfig.dev.json
+C:\Users\Ana Maria\Source\Repos\estruturaWhile\bin\Debug\netcoreapp3.1\estruturaWhile.dll
+C:\Users\Ana Maria\Source\Repos\estruturaWhile\bin\Debug\netcoreapp3.1\estruturaWhile.pdb
+C:\Users\Ana Maria\Source\Repos\estruturaWhile\obj\Debug\netcoreapp3.1\estruturaWhile.AssemblyInfoInputs.cache
+C:\Users\Ana Maria\Source\Repos\estruturaWhile\obj\Debug\netcoreapp3.1\estruturaWhile.AssemblyInfo.cs
+C:\Users\Ana Maria\Source\Repos\estruturaWhile\obj\Debug\netcoreapp3.1\estruturaWhile.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\estruturaWhile\obj\Debug\netcoreapp3.1\estruturaWhile.dll
+C:\Users\Ana Maria\Source\Repos\estruturaWhile\obj\Debug\netcoreapp3.1\estruturaWhile.pdb
+C:\Users\Ana Maria\Source\Repos\estruturaWhile\obj\Debug\netcoreapp3.1\estruturaWhile.genruntimeconfig.cache

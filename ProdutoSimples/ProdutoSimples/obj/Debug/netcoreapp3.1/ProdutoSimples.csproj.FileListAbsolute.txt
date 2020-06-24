@@ -1,0 +1,12 @@
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\ProdutoSimples\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.exe
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\ProdutoSimples\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.deps.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\ProdutoSimples\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.runtimeconfig.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\ProdutoSimples\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.runtimeconfig.dev.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\ProdutoSimples\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.dll
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\ProdutoSimples\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.pdb
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\ProdutoSimples\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.AssemblyInfoInputs.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\ProdutoSimples\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.AssemblyInfo.cs
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\ProdutoSimples\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\ProdutoSimples\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.dll
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\ProdutoSimples\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.pdb
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\ProdutoSimples\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.genruntimeconfig.cache

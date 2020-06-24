@@ -1,0 +1,13 @@
+C:\Users\Ana Maria\Source\Repos\OMaior\OMaior\bin\Debug\netcoreapp3.1\OMaior.exe
+C:\Users\Ana Maria\Source\Repos\OMaior\OMaior\bin\Debug\netcoreapp3.1\OMaior.deps.json
+C:\Users\Ana Maria\Source\Repos\OMaior\OMaior\bin\Debug\netcoreapp3.1\OMaior.runtimeconfig.json
+C:\Users\Ana Maria\Source\Repos\OMaior\OMaior\bin\Debug\netcoreapp3.1\OMaior.runtimeconfig.dev.json
+C:\Users\Ana Maria\Source\Repos\OMaior\OMaior\bin\Debug\netcoreapp3.1\OMaior.dll
+C:\Users\Ana Maria\Source\Repos\OMaior\OMaior\bin\Debug\netcoreapp3.1\OMaior.pdb
+C:\Users\Ana Maria\Source\Repos\OMaior\OMaior\obj\Debug\netcoreapp3.1\OMaior.csprojAssemblyReference.cache
+C:\Users\Ana Maria\Source\Repos\OMaior\OMaior\obj\Debug\netcoreapp3.1\OMaior.AssemblyInfoInputs.cache
+C:\Users\Ana Maria\Source\Repos\OMaior\OMaior\obj\Debug\netcoreapp3.1\OMaior.AssemblyInfo.cs
+C:\Users\Ana Maria\Source\Repos\OMaior\OMaior\obj\Debug\netcoreapp3.1\OMaior.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\OMaior\OMaior\obj\Debug\netcoreapp3.1\OMaior.dll
+C:\Users\Ana Maria\Source\Repos\OMaior\OMaior\obj\Debug\netcoreapp3.1\OMaior.pdb
+C:\Users\Ana Maria\Source\Repos\OMaior\OMaior\obj\Debug\netcoreapp3.1\OMaior.genruntimeconfig.cache

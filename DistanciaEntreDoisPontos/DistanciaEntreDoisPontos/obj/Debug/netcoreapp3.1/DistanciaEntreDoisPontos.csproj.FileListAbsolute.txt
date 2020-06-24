@@ -1,0 +1,13 @@
+C:\Users\Ana Maria\Source\Repos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\bin\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.exe
+C:\Users\Ana Maria\Source\Repos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\bin\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.deps.json
+C:\Users\Ana Maria\Source\Repos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\bin\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.runtimeconfig.json
+C:\Users\Ana Maria\Source\Repos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\bin\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.runtimeconfig.dev.json
+C:\Users\Ana Maria\Source\Repos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\bin\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.dll
+C:\Users\Ana Maria\Source\Repos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\bin\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.pdb
+C:\Users\Ana Maria\Source\Repos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.csprojAssemblyReference.cache
+C:\Users\Ana Maria\Source\Repos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.AssemblyInfoInputs.cache
+C:\Users\Ana Maria\Source\Repos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.AssemblyInfo.cs
+C:\Users\Ana Maria\Source\Repos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.dll
+C:\Users\Ana Maria\Source\Repos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.pdb
+C:\Users\Ana Maria\Source\Repos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.genruntimeconfig.cache

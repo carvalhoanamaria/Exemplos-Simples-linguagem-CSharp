@@ -1,0 +1,13 @@
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Esfera\Esfera\bin\Debug\netcoreapp3.1\Esfera.exe
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Esfera\Esfera\bin\Debug\netcoreapp3.1\Esfera.deps.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Esfera\Esfera\bin\Debug\netcoreapp3.1\Esfera.runtimeconfig.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Esfera\Esfera\bin\Debug\netcoreapp3.1\Esfera.runtimeconfig.dev.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Esfera\Esfera\bin\Debug\netcoreapp3.1\Esfera.dll
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Esfera\Esfera\bin\Debug\netcoreapp3.1\Esfera.pdb
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Esfera\Esfera\obj\Debug\netcoreapp3.1\Esfera.csprojAssemblyReference.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Esfera\Esfera\obj\Debug\netcoreapp3.1\Esfera.AssemblyInfoInputs.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Esfera\Esfera\obj\Debug\netcoreapp3.1\Esfera.AssemblyInfo.cs
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Esfera\Esfera\obj\Debug\netcoreapp3.1\Esfera.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Esfera\Esfera\obj\Debug\netcoreapp3.1\Esfera.dll
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Esfera\Esfera\obj\Debug\netcoreapp3.1\Esfera.pdb
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\Esfera\Esfera\obj\Debug\netcoreapp3.1\Esfera.genruntimeconfig.cache

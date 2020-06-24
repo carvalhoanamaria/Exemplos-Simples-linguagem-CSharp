@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XI5UOa8PuEuo13VyIDu1tNBmesQ4j6gDuNt3XMvAg+Xxk3cLxO/bf/PwjRamwkjj8J/y8m2fC7LHSL0XgI7p8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ana Maria\\Source\\Repos\\CursoProfHelio\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ana Maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

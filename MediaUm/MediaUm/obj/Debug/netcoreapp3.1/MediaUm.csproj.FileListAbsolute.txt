@@ -1,0 +1,13 @@
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaUm\MediaUm\bin\Debug\netcoreapp3.1\MediaUm.exe
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaUm\MediaUm\bin\Debug\netcoreapp3.1\MediaUm.deps.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaUm\MediaUm\bin\Debug\netcoreapp3.1\MediaUm.runtimeconfig.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaUm\MediaUm\bin\Debug\netcoreapp3.1\MediaUm.runtimeconfig.dev.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaUm\MediaUm\bin\Debug\netcoreapp3.1\MediaUm.dll
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaUm\MediaUm\bin\Debug\netcoreapp3.1\MediaUm.pdb
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaUm\MediaUm\obj\Debug\netcoreapp3.1\MediaUm.csprojAssemblyReference.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaUm\MediaUm\obj\Debug\netcoreapp3.1\MediaUm.AssemblyInfoInputs.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaUm\MediaUm\obj\Debug\netcoreapp3.1\MediaUm.AssemblyInfo.cs
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaUm\MediaUm\obj\Debug\netcoreapp3.1\MediaUm.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaUm\MediaUm\obj\Debug\netcoreapp3.1\MediaUm.dll
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaUm\MediaUm\obj\Debug\netcoreapp3.1\MediaUm.pdb
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaUm\MediaUm\obj\Debug\netcoreapp3.1\MediaUm.genruntimeconfig.cache

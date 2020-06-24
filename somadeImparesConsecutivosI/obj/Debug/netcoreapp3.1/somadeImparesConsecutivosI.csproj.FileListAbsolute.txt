@@ -1,0 +1,13 @@
+C:\Users\Ana Maria\Source\Repos\somadeImparesConsecutivosI\bin\Debug\netcoreapp3.1\somadeImparesConsecutivosI.exe
+C:\Users\Ana Maria\Source\Repos\somadeImparesConsecutivosI\bin\Debug\netcoreapp3.1\somadeImparesConsecutivosI.deps.json
+C:\Users\Ana Maria\Source\Repos\somadeImparesConsecutivosI\bin\Debug\netcoreapp3.1\somadeImparesConsecutivosI.runtimeconfig.json
+C:\Users\Ana Maria\Source\Repos\somadeImparesConsecutivosI\bin\Debug\netcoreapp3.1\somadeImparesConsecutivosI.runtimeconfig.dev.json
+C:\Users\Ana Maria\Source\Repos\somadeImparesConsecutivosI\bin\Debug\netcoreapp3.1\somadeImparesConsecutivosI.dll
+C:\Users\Ana Maria\Source\Repos\somadeImparesConsecutivosI\bin\Debug\netcoreapp3.1\somadeImparesConsecutivosI.pdb
+C:\Users\Ana Maria\Source\Repos\somadeImparesConsecutivosI\obj\Debug\netcoreapp3.1\somadeImparesConsecutivosI.csprojAssemblyReference.cache
+C:\Users\Ana Maria\Source\Repos\somadeImparesConsecutivosI\obj\Debug\netcoreapp3.1\somadeImparesConsecutivosI.AssemblyInfoInputs.cache
+C:\Users\Ana Maria\Source\Repos\somadeImparesConsecutivosI\obj\Debug\netcoreapp3.1\somadeImparesConsecutivosI.AssemblyInfo.cs
+C:\Users\Ana Maria\Source\Repos\somadeImparesConsecutivosI\obj\Debug\netcoreapp3.1\somadeImparesConsecutivosI.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\somadeImparesConsecutivosI\obj\Debug\netcoreapp3.1\somadeImparesConsecutivosI.dll
+C:\Users\Ana Maria\Source\Repos\somadeImparesConsecutivosI\obj\Debug\netcoreapp3.1\somadeImparesConsecutivosI.pdb
+C:\Users\Ana Maria\Source\Repos\somadeImparesConsecutivosI\obj\Debug\netcoreapp3.1\somadeImparesConsecutivosI.genruntimeconfig.cache

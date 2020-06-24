@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iv+Ja28bjH3u68THo9i3R4RJ39DudOiGJbGRxB6EXP1XXSjlUudV9rgfxi/OLlFxZu9pEKM+Cvp8FJHFbHRCpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ana Maria\\Source\\Repos\\estruturaFacaEnquanto\\estruturaFacaEnquanto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ana Maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

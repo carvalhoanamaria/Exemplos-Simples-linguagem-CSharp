@@ -1,0 +1,13 @@
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SalariocomBonus\SalariocomBonus\bin\Debug\netcoreapp3.1\SalariocomBonus.exe
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SalariocomBonus\SalariocomBonus\bin\Debug\netcoreapp3.1\SalariocomBonus.deps.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SalariocomBonus\SalariocomBonus\bin\Debug\netcoreapp3.1\SalariocomBonus.runtimeconfig.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SalariocomBonus\SalariocomBonus\bin\Debug\netcoreapp3.1\SalariocomBonus.runtimeconfig.dev.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SalariocomBonus\SalariocomBonus\bin\Debug\netcoreapp3.1\SalariocomBonus.dll
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SalariocomBonus\SalariocomBonus\bin\Debug\netcoreapp3.1\SalariocomBonus.pdb
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SalariocomBonus\SalariocomBonus\obj\Debug\netcoreapp3.1\SalariocomBonus.csprojAssemblyReference.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SalariocomBonus\SalariocomBonus\obj\Debug\netcoreapp3.1\SalariocomBonus.AssemblyInfoInputs.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SalariocomBonus\SalariocomBonus\obj\Debug\netcoreapp3.1\SalariocomBonus.AssemblyInfo.cs
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SalariocomBonus\SalariocomBonus\obj\Debug\netcoreapp3.1\SalariocomBonus.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SalariocomBonus\SalariocomBonus\obj\Debug\netcoreapp3.1\SalariocomBonus.dll
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SalariocomBonus\SalariocomBonus\obj\Debug\netcoreapp3.1\SalariocomBonus.pdb
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\SalariocomBonus\SalariocomBonus\obj\Debug\netcoreapp3.1\SalariocomBonus.genruntimeconfig.cache

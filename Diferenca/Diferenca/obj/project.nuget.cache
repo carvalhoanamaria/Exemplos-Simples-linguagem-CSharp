@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aPo+aHiL2iENav95Ej38W3RpyaB4IZ+Giczc+4HYmncMTM3MIDiCBCa30zor1+DV63UOkyaRYHBCLpJAFQ9Zbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ana Maria\\Source\\Repos\\CursoProfHelio\\Diferenca\\Diferenca\\Diferenca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ana Maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

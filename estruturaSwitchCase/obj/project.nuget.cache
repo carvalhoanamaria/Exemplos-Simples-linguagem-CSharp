@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PMCKdkBU0t9SbcqrSNINcMGPHK95dqfB6RbgGmwJcmFkm2WX8G6fivYAE/pG8yVOYt+dq/n408+KBrO+9F546A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ana Maria\\Source\\Repos\\estruturaSwitchCase\\estruturaSwitchCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ana Maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

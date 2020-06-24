@@ -1,0 +1,13 @@
+C:\Users\Ana Maria\Source\Repos\estruturaWhile2\bin\Debug\netcoreapp3.1\estruturaWhile2.exe
+C:\Users\Ana Maria\Source\Repos\estruturaWhile2\bin\Debug\netcoreapp3.1\estruturaWhile2.deps.json
+C:\Users\Ana Maria\Source\Repos\estruturaWhile2\bin\Debug\netcoreapp3.1\estruturaWhile2.runtimeconfig.json
+C:\Users\Ana Maria\Source\Repos\estruturaWhile2\bin\Debug\netcoreapp3.1\estruturaWhile2.runtimeconfig.dev.json
+C:\Users\Ana Maria\Source\Repos\estruturaWhile2\bin\Debug\netcoreapp3.1\estruturaWhile2.dll
+C:\Users\Ana Maria\Source\Repos\estruturaWhile2\bin\Debug\netcoreapp3.1\estruturaWhile2.pdb
+C:\Users\Ana Maria\Source\Repos\estruturaWhile2\obj\Debug\netcoreapp3.1\estruturaWhile2.csprojAssemblyReference.cache
+C:\Users\Ana Maria\Source\Repos\estruturaWhile2\obj\Debug\netcoreapp3.1\estruturaWhile2.AssemblyInfoInputs.cache
+C:\Users\Ana Maria\Source\Repos\estruturaWhile2\obj\Debug\netcoreapp3.1\estruturaWhile2.AssemblyInfo.cs
+C:\Users\Ana Maria\Source\Repos\estruturaWhile2\obj\Debug\netcoreapp3.1\estruturaWhile2.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\estruturaWhile2\obj\Debug\netcoreapp3.1\estruturaWhile2.dll
+C:\Users\Ana Maria\Source\Repos\estruturaWhile2\obj\Debug\netcoreapp3.1\estruturaWhile2.pdb
+C:\Users\Ana Maria\Source\Repos\estruturaWhile2\obj\Debug\netcoreapp3.1\estruturaWhile2.genruntimeconfig.cache

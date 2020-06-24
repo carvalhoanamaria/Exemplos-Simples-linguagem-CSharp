@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u+1Ecyj9R4QvK2azFKyZtoA2kWLyCB+03bI19UdKA5CPl9dXp9hkFevzW/5kCf7lWsdk+1+y4f3ArWVJyDrUpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ana Maria\\Source\\Repos\\somadeImparesConsecutivosI\\somadeImparesConsecutivosI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ana Maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

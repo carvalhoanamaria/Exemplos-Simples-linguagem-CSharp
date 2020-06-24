@@ -1,0 +1,13 @@
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\CaculoSimples\CaculoSimples\bin\Debug\netcoreapp3.1\CaculoSimples.exe
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\CaculoSimples\CaculoSimples\bin\Debug\netcoreapp3.1\CaculoSimples.deps.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\CaculoSimples\CaculoSimples\bin\Debug\netcoreapp3.1\CaculoSimples.runtimeconfig.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\CaculoSimples\CaculoSimples\bin\Debug\netcoreapp3.1\CaculoSimples.runtimeconfig.dev.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\CaculoSimples\CaculoSimples\bin\Debug\netcoreapp3.1\CaculoSimples.dll
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\CaculoSimples\CaculoSimples\bin\Debug\netcoreapp3.1\CaculoSimples.pdb
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\CaculoSimples\CaculoSimples\obj\Debug\netcoreapp3.1\CaculoSimples.csprojAssemblyReference.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\CaculoSimples\CaculoSimples\obj\Debug\netcoreapp3.1\CaculoSimples.AssemblyInfoInputs.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\CaculoSimples\CaculoSimples\obj\Debug\netcoreapp3.1\CaculoSimples.AssemblyInfo.cs
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\CaculoSimples\CaculoSimples\obj\Debug\netcoreapp3.1\CaculoSimples.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\CaculoSimples\CaculoSimples\obj\Debug\netcoreapp3.1\CaculoSimples.dll
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\CaculoSimples\CaculoSimples\obj\Debug\netcoreapp3.1\CaculoSimples.pdb
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\CaculoSimples\CaculoSimples\obj\Debug\netcoreapp3.1\CaculoSimples.genruntimeconfig.cache

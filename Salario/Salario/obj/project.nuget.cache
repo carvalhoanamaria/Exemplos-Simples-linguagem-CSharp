@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u4n7InHawtzDnNyLzqwT/NG7hBL9/ZHrpqoeYS6/xBet8/A32WVHFV9nJIShqA/JRzrO1ELWPx8+r7UNHCmfXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ana Maria\\Source\\Repos\\CursoProfHelio\\Salario\\Salario\\Salario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ana Maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

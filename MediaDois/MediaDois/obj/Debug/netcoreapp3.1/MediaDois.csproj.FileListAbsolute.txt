@@ -1,0 +1,13 @@
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaDois\MediaDois\bin\Debug\netcoreapp3.1\MediaDois.exe
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaDois\MediaDois\bin\Debug\netcoreapp3.1\MediaDois.deps.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaDois\MediaDois\bin\Debug\netcoreapp3.1\MediaDois.runtimeconfig.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaDois\MediaDois\bin\Debug\netcoreapp3.1\MediaDois.runtimeconfig.dev.json
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaDois\MediaDois\bin\Debug\netcoreapp3.1\MediaDois.dll
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaDois\MediaDois\bin\Debug\netcoreapp3.1\MediaDois.pdb
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaDois\MediaDois\obj\Debug\netcoreapp3.1\MediaDois.csprojAssemblyReference.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaDois\MediaDois\obj\Debug\netcoreapp3.1\MediaDois.AssemblyInfoInputs.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaDois\MediaDois\obj\Debug\netcoreapp3.1\MediaDois.AssemblyInfo.cs
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaDois\MediaDois\obj\Debug\netcoreapp3.1\MediaDois.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaDois\MediaDois\obj\Debug\netcoreapp3.1\MediaDois.dll
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaDois\MediaDois\obj\Debug\netcoreapp3.1\MediaDois.pdb
+C:\Users\Ana Maria\Source\Repos\CursoProfHelio\MediaDois\MediaDois\obj\Debug\netcoreapp3.1\MediaDois.genruntimeconfig.cache

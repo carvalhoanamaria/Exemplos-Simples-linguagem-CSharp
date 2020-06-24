@@ -1,0 +1,13 @@
+C:\Users\Ana Maria\Source\Repos\trocaDeLampada\bin\Debug\netcoreapp3.1\trocaDeLampada.exe
+C:\Users\Ana Maria\Source\Repos\trocaDeLampada\bin\Debug\netcoreapp3.1\trocaDeLampada.deps.json
+C:\Users\Ana Maria\Source\Repos\trocaDeLampada\bin\Debug\netcoreapp3.1\trocaDeLampada.runtimeconfig.json
+C:\Users\Ana Maria\Source\Repos\trocaDeLampada\bin\Debug\netcoreapp3.1\trocaDeLampada.runtimeconfig.dev.json
+C:\Users\Ana Maria\Source\Repos\trocaDeLampada\bin\Debug\netcoreapp3.1\trocaDeLampada.dll
+C:\Users\Ana Maria\Source\Repos\trocaDeLampada\bin\Debug\netcoreapp3.1\trocaDeLampada.pdb
+C:\Users\Ana Maria\Source\Repos\trocaDeLampada\obj\Debug\netcoreapp3.1\trocaDeLampada.csprojAssemblyReference.cache
+C:\Users\Ana Maria\Source\Repos\trocaDeLampada\obj\Debug\netcoreapp3.1\trocaDeLampada.AssemblyInfoInputs.cache
+C:\Users\Ana Maria\Source\Repos\trocaDeLampada\obj\Debug\netcoreapp3.1\trocaDeLampada.AssemblyInfo.cs
+C:\Users\Ana Maria\Source\Repos\trocaDeLampada\obj\Debug\netcoreapp3.1\trocaDeLampada.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\trocaDeLampada\obj\Debug\netcoreapp3.1\trocaDeLampada.dll
+C:\Users\Ana Maria\Source\Repos\trocaDeLampada\obj\Debug\netcoreapp3.1\trocaDeLampada.pdb
+C:\Users\Ana Maria\Source\Repos\trocaDeLampada\obj\Debug\netcoreapp3.1\trocaDeLampada.genruntimeconfig.cache

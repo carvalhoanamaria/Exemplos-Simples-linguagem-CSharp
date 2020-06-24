@@ -1,0 +1,13 @@
+C:\Users\Ana Maria\Source\Repos\estruturaFacaEnquanto\obj\Debug\netcoreapp3.1\estruturaFacaEnquanto.csprojAssemblyReference.cache
+C:\Users\Ana Maria\Source\Repos\estruturaFacaEnquanto\obj\Debug\netcoreapp3.1\estruturaFacaEnquanto.AssemblyInfoInputs.cache
+C:\Users\Ana Maria\Source\Repos\estruturaFacaEnquanto\obj\Debug\netcoreapp3.1\estruturaFacaEnquanto.AssemblyInfo.cs
+C:\Users\Ana Maria\Source\Repos\estruturaFacaEnquanto\obj\Debug\netcoreapp3.1\estruturaFacaEnquanto.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria\Source\Repos\estruturaFacaEnquanto\bin\Debug\netcoreapp3.1\estruturaFacaEnquanto.exe
+C:\Users\Ana Maria\Source\Repos\estruturaFacaEnquanto\bin\Debug\netcoreapp3.1\estruturaFacaEnquanto.deps.json
+C:\Users\Ana Maria\Source\Repos\estruturaFacaEnquanto\bin\Debug\netcoreapp3.1\estruturaFacaEnquanto.runtimeconfig.json
+C:\Users\Ana Maria\Source\Repos\estruturaFacaEnquanto\bin\Debug\netcoreapp3.1\estruturaFacaEnquanto.runtimeconfig.dev.json
+C:\Users\Ana Maria\Source\Repos\estruturaFacaEnquanto\bin\Debug\netcoreapp3.1\estruturaFacaEnquanto.dll
+C:\Users\Ana Maria\Source\Repos\estruturaFacaEnquanto\bin\Debug\netcoreapp3.1\estruturaFacaEnquanto.pdb
+C:\Users\Ana Maria\Source\Repos\estruturaFacaEnquanto\obj\Debug\netcoreapp3.1\estruturaFacaEnquanto.dll
+C:\Users\Ana Maria\Source\Repos\estruturaFacaEnquanto\obj\Debug\netcoreapp3.1\estruturaFacaEnquanto.pdb
+C:\Users\Ana Maria\Source\Repos\estruturaFacaEnquanto\obj\Debug\netcoreapp3.1\estruturaFacaEnquanto.genruntimeconfig.cache
